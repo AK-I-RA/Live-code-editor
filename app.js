@@ -6,3 +6,6 @@ htmlEditor.setHighlightActiveLine(false)
 
 var cssEditor = ace.edit("css");
 cssEditor.setTheme("ace/theme/cobalt");
+cssEditor.session.setMode("ace/mode/css");
+cssEditor.resize();
+cssEditor.setHighlightActiveLine(false);
