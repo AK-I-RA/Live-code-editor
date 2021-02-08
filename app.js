@@ -28,3 +28,5 @@ function compiler() {
         cssValue +
         "</style>" +
         htmlValue +
+        "<script>" +
+        jsValue +
