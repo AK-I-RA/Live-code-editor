@@ -31,4 +31,6 @@ function compiler() {
         "<script>" +
         jsValue +
         "</script>"
-     );
+    );
+    result.close();
+}
