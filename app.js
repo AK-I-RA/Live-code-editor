@@ -15,3 +15,7 @@ jsEditor.setTheme("ace/theme/cobalt");
 jsEditor.session.setMode("ace/mode/javascript");
 jsEditor.resize();
 jsEditor.setHighlightActiveLine(false);
+
+function compiler() {
+    var htmlValue = htmlEditor.getValue();
+    var cssValue = cssEditor.getValue();
