@@ -37,3 +37,6 @@ function compiler() {
 
 var allButtons = document.querySelectorAll("#button-wrapper button");
 var allPanels = document.querySelectorAll("#ide-container .panel-wrapper");
+
+function switchPanel(panelIndex) {
+    switcher(panelIndex);
