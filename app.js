@@ -21,3 +21,6 @@ function compiler() {
     var cssValue = cssEditor.getValue();
     var jsValue = jsEditor.getValue();
     var result = document.getElementById("result").contentWindow.document;
+
+    result.open();
+    result.writeln(
