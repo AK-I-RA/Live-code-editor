@@ -24,3 +24,5 @@ function compiler() {
 
     result.open();
     result.writeln(
+        "<style>" +
+        cssValue +
