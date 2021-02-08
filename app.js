@@ -26,3 +26,5 @@ function compiler() {
     result.writeln(
         "<style>" +
         cssValue +
+        "</style>" +
+        htmlValue +
