@@ -12,3 +12,6 @@ cssEditor.setHighlightActiveLine(false);
 
 var jsEditor = ace.edit("js");
 jsEditor.setTheme("ace/theme/cobalt");
+jsEditor.session.setMode("ace/mode/javascript");
+jsEditor.resize();
+jsEditor.setHighlightActiveLine(false);
