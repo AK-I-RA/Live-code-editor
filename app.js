@@ -34,3 +34,6 @@ function compiler() {
     );
     result.close();
 }
+
+var allButtons = document.querySelectorAll("#button-wrapper button");
+var allPanels = document.querySelectorAll("#ide-container .panel-wrapper");
