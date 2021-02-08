@@ -9,3 +9,6 @@ cssEditor.setTheme("ace/theme/cobalt");
 cssEditor.session.setMode("ace/mode/css");
 cssEditor.resize();
 cssEditor.setHighlightActiveLine(false);
+
+var jsEditor = ace.edit("js");
+jsEditor.setTheme("ace/theme/cobalt");
