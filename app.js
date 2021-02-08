@@ -19,3 +19,5 @@ jsEditor.setHighlightActiveLine(false);
 function compiler() {
     var htmlValue = htmlEditor.getValue();
     var cssValue = cssEditor.getValue();
+    var jsValue = jsEditor.getValue();
+    var result = document.getElementById("result").contentWindow.document;
