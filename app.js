@@ -30,3 +30,5 @@ function compiler() {
         htmlValue +
         "<script>" +
         jsValue +
+        "</script>"
+     );
