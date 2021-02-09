@@ -43,3 +43,7 @@ function switchPanel(panelIndex) {
 }
 
 switchPanel(0);
+
+function runEdit(panelIndex) {
+    switcher(panelIndex);
+    compiler();
