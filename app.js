@@ -58,3 +58,4 @@ function switcher(panelIndex) {
         node.style.display = "none";
   });
   allPanels[panelIndex].style.display = "block";
+}
