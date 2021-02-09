@@ -50,3 +50,5 @@ function runEdit(panelIndex) {
 }
 
 function switcher(panelIndex) {
+    allButtons.forEach(function (node) {
+        node.style.background = ""
