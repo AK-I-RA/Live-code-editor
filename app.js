@@ -57,3 +57,4 @@ function switcher(panelIndex) {
     allPanels.forEach(function (node) {
         node.style.display = "none";
   });
+  allPanels[panelIndex].style.display = "block";
