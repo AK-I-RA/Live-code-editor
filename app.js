@@ -55,3 +55,5 @@ function switcher(panelIndex) {
     });
     allButtons[panelIndex].style.background = "#002240";
     allPanels.forEach(function (node) {
+        node.style.display = "none";
+  });
