@@ -16,3 +16,5 @@ body {
   }
   .header-wrap h1 {
     margin-bottom: 16px;
+    font-weight: 300;
+    font-size: 46px;
