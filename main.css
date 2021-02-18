@@ -19,3 +19,11 @@ body {
     font-weight: 300;
     font-size: 46px;
   }
+
+
+
+
+  /*ace*/
+.ace_editor {
+	font-size: 14px !important;
+}
