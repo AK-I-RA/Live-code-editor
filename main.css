@@ -53,3 +53,5 @@ body {
   font-family: "Arial", sans-serif;
   letter-spacing: 2px;
   font-size: 13px;
+  outline: none;
+  transition-duration: 300ms;
