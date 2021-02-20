@@ -47,3 +47,5 @@ body {
   width: 25%;
   border: none;
   background: #00325E;
+  cursor: pointer;
+  text-transform: uppercase;
