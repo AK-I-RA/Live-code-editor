@@ -31,3 +31,5 @@ body {
 #ide-parent {
   width: 90%;
   height: auto;
+  border-radius: 1em;
+  overflow: hidden;
