@@ -60,3 +60,6 @@ body {
 #button-wrapper button:hover {
   background: #000E1B;
 }
+
+#ide-container {
+  width: 100%;
