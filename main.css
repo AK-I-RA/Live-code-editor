@@ -56,3 +56,6 @@ body {
   outline: none;
   transition-duration: 300ms;
 }
+
+#button-wrapper button:hover {
+  background: #000E1B;
