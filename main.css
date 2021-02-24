@@ -95,3 +95,7 @@ body {
   background: #002240;
   border: none;
 }
+
+.ace-dracula {
+  background-color: #162447 !important;
+}
