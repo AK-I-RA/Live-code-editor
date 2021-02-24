@@ -101,3 +101,5 @@ body {
 }
 
 .ace-dracula .ace_gutter {
+  background: #162447 !important;
+}
