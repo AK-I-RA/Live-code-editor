@@ -105,3 +105,5 @@ body {
 }
 
 .ace_scrollbar-h {
+  scrollbar-color: #1f4068 #162447 !important;
+  scrollbar-width: thin !important;
