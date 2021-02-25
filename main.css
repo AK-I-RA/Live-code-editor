@@ -115,3 +115,6 @@ body {
   scrollbar-width: thin !important;
   cursor: pointer
 }
+
+.ace_scrollbar-h::-webkit-scrollbar {
+  border: none;
