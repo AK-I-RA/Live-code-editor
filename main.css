@@ -109,3 +109,6 @@ body {
   scrollbar-width: thin !important;
   cursor: pointer;
 }
+
+.ace_scrollbar-v {
+  scrollbar-color: #1f4068 #162447 !important;
