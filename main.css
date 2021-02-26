@@ -133,3 +133,8 @@ body {
 .ace_scrollbar-h::-webkit-scrollbar-track {
   background: transparent;
 }
+
+.ace_scrollbar-v::-webkit-scrollbar {
+  border: none;
+  width: 0.6em;
+}
