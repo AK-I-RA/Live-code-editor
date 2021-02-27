@@ -120,3 +120,6 @@ body {
   border: none;
   height: 0.6em;
 }
+
+.ace_scrollbar-h::-webkit-scrollbar-thumb {
+  background: #1f4068;
