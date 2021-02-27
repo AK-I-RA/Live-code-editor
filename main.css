@@ -123,3 +123,5 @@ body {
 
 .ace_scrollbar-h::-webkit-scrollbar-thumb {
   background: #1f4068;
+  border: none;
+}
