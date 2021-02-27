@@ -118,3 +118,5 @@ body {
 
 .ace_scrollbar-h::-webkit-scrollbar {
   border: none;
+  height: 0.6em;
+}
