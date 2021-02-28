@@ -138,3 +138,6 @@ body {
   border: none;
   width: 0.6em;
 }
+
+.ace_scrollbar-v::-webkit-scrollbar-thumb {
+  background: #1f4068;
