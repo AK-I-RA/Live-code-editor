@@ -143,3 +143,5 @@ body {
   background: #1f4068;
   border: none;
 }
+
+.ace_scrollbar-v::-webkit-scrollbar-thumb:hover {
