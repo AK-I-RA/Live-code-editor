@@ -147,3 +147,5 @@ body {
 .ace_scrollbar-v::-webkit-scrollbar-thumb:hover {
   background: #173458;
 }
+
+.ace_scrollbar-v::-webkit-scrollbar-track {
