@@ -149,3 +149,5 @@ body {
 }
 
 .ace_scrollbar-v::-webkit-scrollbar-track {
+  background: transparent;
+}
