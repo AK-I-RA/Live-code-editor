@@ -166,3 +166,6 @@ body {
 .description p {
   line-height: 24px;
 }
+
+.description svg {
+  width: 50px;
