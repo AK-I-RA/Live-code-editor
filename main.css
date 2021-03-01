@@ -151,3 +151,6 @@ body {
 .ace_scrollbar-v::-webkit-scrollbar-track {
   background: transparent;
 }
+
+.description {
+  max-width: 500px;
