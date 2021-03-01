@@ -169,3 +169,5 @@ body {
 
 .description svg {
   width: 50px;
+  cursor: pointer;
+  height: auto;
