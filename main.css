@@ -160,5 +160,7 @@ body {
   text-align: center;
   color: #ddd;
   font-family: sans-serif;
-    font-size: 14px;
+  font-size: 14px;
 }
+
+.description p {
