@@ -203,3 +203,6 @@ body {
   width: 24px;
   height: auto;
 }
+
+.inner-wrap a {
+  margin-left: 24px;
