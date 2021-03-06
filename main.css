@@ -200,3 +200,5 @@ body {
 }
 
 .inner-wrap img {
+  width: 24px;
+  height: auto;
