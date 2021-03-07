@@ -209,3 +209,4 @@ body {
 }
 
 .icons-wrap {
+  display: flex;
