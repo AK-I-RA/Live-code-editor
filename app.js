@@ -41,7 +41,6 @@ var allPanels = document.querySelectorAll("#ide-container .panel-wrapper");
 function switchPanel(panelIndex) {
     switcher(panelIndex);
 }
-
 switchPanel(0);
 
 function runEdit(panelIndex) {
